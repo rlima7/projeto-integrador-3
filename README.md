@@ -1,2 +1,3 @@
 # projeto-integrador-3
-Projeto em grupo do terceiro semestre[PI 3]
+
+Third semester project [ticket sales - PI 3] with no layout improvements
